@@ -1,0 +1,20 @@
+#show-contact {
+  display: flex;
+  }
+
+  .contact {
+    cursor: pointer;
+    color: #0088cc;
+  }
+
+  .contact:hover {
+    text-decoration: underline;
+  }   
+  .ben{
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+  }
+  .eve{
+    text-align: center;
+  }
